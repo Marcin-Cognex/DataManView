@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<result id="774" image_id="-1" version="3" origin="common">
+<result id="772" image_id="670" origin="common">
+	<general>
+		<status>GOOD READ</status>
+		<result_source>DM374-6B3DFE</result_source>
+		<full_string encoding="base64">NEFCQw==</full_string>
+		<trigger_index>133</trigger_index>
+		<trigger_time>235</trigger_time>
+		<decode_time>16</decode_time>
+		<symbology>Code 128</symbology>
+		<generator>DM374-6B3DFE</generator>
+		<read_setup>0</read_setup>
+		<module_size>4.10</module_size>
+	</general>
+</result>
+<result id="773" image_id="671" origin="common">
+	<general>
+		<status>GOOD READ</status>
+		<result_source>DM374-6B3DFE</result_source>
+		<full_string encoding="base64">NUFCQw==</full_string>
+		<trigger_index>133</trigger_index>
+		<trigger_time>235</trigger_time>
+		<decode_time>15</decode_time>
+		<symbology>Code 128</symbology>
+		<generator>DM374-6B3DFE</generator>
+		<read_setup>1</read_setup>
+		<module_size>4.07</module_size>
+	</general>
+</result>
+<result id="770" image_id="668" origin="common">
+	<general>
+		<status>GOOD READ</status>
+		<result_source>DM374-6B3DFE</result_source>
+		<full_string encoding="base64">NkFCQw==</full_string>
+		<trigger_index>133</trigger_index>
+		<trigger_time>235</trigger_time>
+		<decode_time>20</decode_time>
+		<symbology>Code 128</symbology>
+		<generator>DM374-6B3DFE</generator>
+		<read_setup>2</read_setup>
+		<module_size>4.09</module_size>
+	</general>
+</result>
+<result id="771" image_id="669" origin="common">
+	<general>
+		<status>GOOD READ</status>
+		<result_source>DM374-6B3DFE</result_source>
+		<full_string encoding="base64">N0FCQw==</full_string>
+		<trigger_index>133</trigger_index>
+		<trigger_time>235</trigger_time>
+		<decode_time>20</decode_time>
+		<symbology>Code 128</symbology>
+		<generator>DM374-6B3DFE</generator>
+		<read_setup>3</read_setup>
+		<module_size>4.07</module_size>
+	</general>
+</result>
+	<general>
+		<status>GOOD READ</status>
+		<result_source>DM374-6B3DFE</result_source>
+		<full_string encoding="base64">NEFCQyA1QUJDIDZBQkMgN0FCQw==</full_string>
+		<trigger_index>133</trigger_index>
+		<trigger_time>235</trigger_time>
+		<decode_time>20</decode_time>
+		<generator>DM374-6B3DFE</generator>
+	</general>
+	<statistics>
+		<read_stats>
+			<good_reads>89</good_reads>
+			<bad_reads>5</bad_reads>
+			<passed_validations>0</passed_validations>
+			<failed_validations>0</failed_validations>
+			<triggers_missed>0</triggers_missed>
+			<trigger_overruns>0</trigger_overruns>
+			<buffer_overflows>0</buffer_overflows>
+			<item_count>0</item_count>
+			<decoded_symbols>
+				<read_setup index="0">140</read_setup>
+				<read_setup index="1">57</read_setup>
+				<read_setup index="2">226</read_setup>
+				<read_setup index="3">215</read_setup>
+				<read_setup index="16">0</read_setup>
+			</decoded_symbols>
+		</read_stats>
+	</statistics>
+</result>
